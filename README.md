@@ -2,7 +2,7 @@
 
 Table of Contents:
 
-- (TODO)
+- [NVIDIA Resources](./nvidia-resources.md)
 
 > This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/hpc/). The page source can be found at [j3soon/hpc-notes](https://github.com/j3soon/hpc-notes).
 

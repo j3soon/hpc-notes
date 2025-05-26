@@ -1,5 +1,5 @@
 
-# NVIDIA Related Resources
+# NVIDIA Resources
 
 For the topics you wish to explore further, start by consulting the official documentation, such as the [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) if you're aiming to become a "CUDA Ninja". However, official documentation can sometimes be challenging to understand. In such cases, searching for "NVIDIA Blog" and "GTC Talks" on relevant topics through Google often leads to excellent presentations and discussions on the subject. Also make sure to prioritize blogs and talks from recent years, as they are more likely to cover the latest technologies.
 
@@ -126,6 +126,9 @@ The following are the reference materials for further study.
 - NVIDIA Omniverse & Isaac
   - [[GitHub] NVIDIA Isaac Summary](https://github.com/j3soon/nvidia-isaac-summary)
 
+- NVIDIA PhysicsNeMo (formerly _NVIDIA Modulus_)
+  - [[GitHub] NVIDIA/PhysicsNeMo](https://github.com/NVIDIA/PhysicsNeMo)
+
 ## Other GTC Talks
 
 - [GTC 24 - Advanced Performance Optimization in CUDA - S62192](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62192/)
@@ -145,3 +148,7 @@ The following are the reference materials for further study.
 - [GTC Fall 21 - GPU Acceleration in Python using CuPy and Numba - A31149](https://www.nvidia.com/en-us/on-demand/session/gtcfall21-a31149/)
 - [GTC Fall 21 - Legate, Scaling the Python Ecosystem - A31168](https://www.nvidia.com/en-us/on-demand/session/gtcfall21-a31168/)
 - [GTC Spring 21 - How GPU Computing Works - S31151](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31151/)
+
+## Epilogue
+
+> Last updated on 2024-12-08.
