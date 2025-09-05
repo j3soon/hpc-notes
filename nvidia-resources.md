@@ -114,7 +114,7 @@ The following are the reference materials for further study.
   - [[GitHub] NVIDIA/nsight-vscode-edition](https://github.com/NVIDIA/nsight-vscode-edition)
   - [and more](https://developer.nvidia.com/tools-overview).
 - Containerization
-  - [[GitHub] NVIDIA Docker](NVIDIA/nvidia-container-toolkit)
+  - [[GitHub] NVIDIA Docker](https://github.com/NVIDIA/nvidia-container-toolkit)
   - [[GitHub] Singularity](https://github.com/sylabs/singularity) & [[GitHub] Apptainer](https://github.com/apptainer/apptainer)
   - [[GitHub] ENROOT](https://github.com/NVIDIA/enroot) & [[GitHub] Pyxis](https://github.com/NVIDIA/pyxis)
 
