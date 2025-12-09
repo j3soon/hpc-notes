@@ -118,6 +118,17 @@ The following are the reference materials for further study.
   - [[GitHub] Singularity](https://github.com/sylabs/singularity) & [[GitHub] Apptainer](https://github.com/apptainer/apptainer)
   - [[GitHub] ENROOT](https://github.com/NVIDIA/enroot) & [[GitHub] Pyxis](https://github.com/NVIDIA/pyxis)
 
+## Tile-based Programming
+
+- [[Blog] Simplify GPU Programming with NVIDIA CUDA Tile in Python](https://developer.nvidia.com/blog/simplify-gpu-programming-with-nvidia-cuda-tile-in-python/)
+- [[Blog] Focus on Your Algorithm - NVIDIA CUDA Tile Handles the Hardware](https://developer.nvidia.com/blog/focus-on-your-algorithm-nvidia-cuda-tile-handles-the-hardware/)
+- [[Blog] NVIDIA CUDA 13.1 Powers Next-Gen GPU Programming with NVIDIA CUDA Tile and Performance Gains](https://developer.nvidia.com/blog/nvidia-cuda-13-1-powers-next-gen-gpu-programming-with-nvidia-cuda-tile-and-performance-gains/)
+- [[Blog] Introducing Tile-Based Programming in Warp 1.5.0](https://developer.nvidia.com/blog/introducing-tile-based-programming-in-warp-1-5-0/)
+- [NVIDIA CUDA Tile](https://developer.nvidia.com/cuda/tile)
+- [cuTile Python](https://docs.nvidia.com/cuda/cutile-python/)
+- [Tile IR](https://docs.nvidia.com/cuda/tile-ir/sections/introduction.html)
+- [Tiles - Warp](https://nvidia.github.io/warp/modules/tiles.html)
+
 ## Higher-Level SDKs
 
 - NVIDIA NeMo
