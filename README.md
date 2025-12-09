@@ -5,10 +5,11 @@ Table of Contents:
 - [NVIDIA Resources](./nvidia-resources.md)
 - [Discussions](./discussions/general.md)
 - Extras
-  - [BlueField DPU Setup Notes](./bluefield-dpu-setup-notes.md)
-  - [Docker MIG Manager](./docker-mig-manager.md)
-  - [Create MIG Instances with NVML Go Bindings](./go-nvml-mig-create-instance.md)
-  - [Running Multi-Node Tasks with Enroot (without Pyxis and Slurm)](./multi-node-enroot-without-pyxis-and-slurm.md)
+  - [BlueField DPU Setup Notes](./extras/bluefield-dpu-setup-notes.md)
+  - [Docker MIG Manager](./extras/docker-mig-manager.md)
+  - [Create MIG Instances with NVML Go Bindings](./extras/go-nvml-mig-create-instance.md)
+  - [Running Multi-Node Tasks with Enroot (without Pyxis and Slurm)](./extras/multi-node-enroot-without-pyxis-and-slurm.md)
+  - [Nsight Guided Profiling](./extras/nsight-guided-profiling.md)
 
 > This repository is part of the [Tutorial](https://github.com/j3soon/tutorial) collection and is hosted on the [Tutorial Website](https://tutorial.j3soon.com/hpc/). The page source can be found at [j3soon/hpc-notes](https://github.com/j3soon/hpc-notes).
 
